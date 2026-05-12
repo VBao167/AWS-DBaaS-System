@@ -57,9 +57,3 @@ The infrastructure is designed following a **2-Tier VPC Architecture (Public - P
 ### Prerequisites
 * Python 3.8+
 * A running MySQL instance (Local or AWS RDS) with a Master User account capable of creating new databases and users.
-
-### Environment Setup
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
